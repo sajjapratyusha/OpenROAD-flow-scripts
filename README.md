@@ -1,4 +1,4 @@
-# OpenROAD_7nm Physical Design Contest by VSD (VLSI System Design) & UCSD (University of California San Diego)
+# OpenROAD_7nm Physical Design Contest by VSD (VLSI System Design)
 The repository reflects my learnings and concepts I understood during the OpenROAD Design Contest. Details for the contest can be found on (http
  <img src="https://www.maven-silicon.com/blog/wp-content/uploads/2022/08/pd-1.png" width=250 height= 300 />
 </p>
